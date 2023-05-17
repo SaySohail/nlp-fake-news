@@ -10,12 +10,9 @@
 </div>
 
 ---
-
-
 ## 🧐 About <a name = "about"></a>
 
 The pervasive problem of fake news in online platforms necessitates the development of automatic detection methods. In this coursework, I will build and evaluate a text classifier using the Support Vector Machine (SVM) algorithm to detect fake news. The dataset provided contains over 10,000 statements on current affairs, annotated with labels ranging from 'true' to 'pants on fire' to represent different degrees of fakeness. For the purpose of this project, I will simplify the task to a binary classification problem, distinguishing between 'real' and 'fake' news.
-
 
 ### Simple Data Input and Pre-processing:
 * Implement the parse_data_line function to extract the label and statement column values from a line of the tab-separated text file.
