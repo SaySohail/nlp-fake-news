@@ -1,0 +1,352 @@
+Statements,True_Results,Predicted_Results,Error
+Health care reform legislation is likely to mandate free sex change surgeries.,FAKE,REAL,False Positive
+Jim Dunnam has not lived in the district he represents for years now.,FAKE,REAL,False Positive
+"I'm the only person on this stage who has worked actively just last year passing, along with Russ Feingold, some of the toughest ethics reform since Watergate.",REAL,FAKE,False Negative
+Says GOP primary opponents Glenn Grothman and Joe Leibham cast a compromise vote that cost $788 million in higher electricity costs.,REAL,FAKE,False Negative
+"When Mitt Romney was governor of Massachusetts, we didnt just slow the rate of growth of our government, we actually cut it.",FAKE,REAL,False Positive
+"In this last election in November, ... 63 percent of the American people chose not to vote, ... 80 percent of young people, (and) 75 percent of low-income workers chose not to vote.",REAL,FAKE,False Negative
+Women and men both are making less when you adjust for inflation than when John Kitzhaber was first elected governor.,FAKE,REAL,False Positive
+We just had the best year for the auto industry in America in history.,REAL,FAKE,False Negative
+Says Mitt Romney wants to get rid of Planned Parenthood.,FAKE,REAL,False Positive
+Says Paul Ryan is still endorsing Trump.,REAL,FAKE,False Negative
+What (the Obama administration is) going to come out with in the next several months is youre not even going to be able to burn coal very limitedly in the existing plants.,FAKE,REAL,False Positive
+Says Mark Pryor votes with Obama 93 percent of the time.,REAL,FAKE,False Negative
+"The nuclear test conducted in our nation this time is the Earth's 2,054th nuclear test. The five permanent members of the U.N. Security Council have conducted 99.99 percent of the total nuclear tests.",REAL,FAKE,False Negative
+Says a U.S. Supreme Court justice suggested that some U.S. cases will be decided based on South African law.,FAKE,REAL,False Positive
+Says Marco Rubio skipped 18 defense votes including one to arm the Kurds to fight ISIS.,REAL,FAKE,False Negative
+Says Ohio budget item later signed into law by Gov. John Kasich requires women seeking an abortion to undergo a mandatory vaginal probe.,FAKE,REAL,False Positive
+We have a director of homeland security who cannot use and will not use the term 'terrorist attack' but instead substitutes 'man-made disaster.' ,FAKE,REAL,False Positive
+African-American youth unemployment is 51 percent. Hispanic youth unemployment is 36 percent.,REAL,FAKE,False Negative
+"Obamacare will provide insurance to all non-U.S. residents, even if they are here illegally.",FAKE,REAL,False Positive
+"We created 800,000 new jobs, we cut the unemployment rate almost in half and today New York State has more private sector jobs than it has ever had in its history",REAL,FAKE,False Negative
+"We have towns in West Texas that are out of water, that are having to truck in water.",FAKE,REAL,False Positive
+"They were going to build the wall a while ago, not so long ago, like in 06. And they couldnt get environmental impact statements.",FAKE,REAL,False Positive
+Sen. Obama's campaign announced that he's choosing his cabinet.,FAKE,REAL,False Positive
+Only 2 percent of public high schools in the country offer PE classes.,FAKE,REAL,False Positive
+"There are 321,092 public school teachers in Texas. And there are 313,850 non-teachers in our public schools.",REAL,FAKE,False Negative
+Transgender individuals in the U.S. have a 1-in-12 chance of being murdered.,FAKE,REAL,False Positive
+"At Bain Capital, we helped start an early childhood learning company called Bright Horizons that First Lady Michelle Obama rightly praised.",REAL,FAKE,False Negative
+U.S. Rep. Phil Gingrey gave the government the power to electronically spy on Americans without a warrant.,FAKE,REAL,False Positive
+Alex Sink funneled three quarters of a million dollars in no-bid contracts to Bank of America.,FAKE,REAL,False Positive
+"Under Obama, home values in Florida collapsed, construction jobs were lost and the state had a high foreclosure rate.",FAKE,REAL,False Positive
+"The new Arizona immigration law ""says that any police officer can stop anyone who appears to them to be reasonably suspicious of being an undocumented person.""",REAL,FAKE,False Negative
+On whether a U.S. Supreme Court nominee should be forthcoming at confirmation hearings.,FAKE,REAL,False Positive
+Says one out of three U.S. homeless men is a veteran.,FAKE,REAL,False Positive
+Says Charlie Crist supports cuts to the Medicare Advantage program.,FAKE,REAL,False Positive
+"In the past 20 years, Egypt has made great strides in political and democratic reform.",FAKE,REAL,False Positive
+The amount of attention paid this week to Chris Christie makes the coverage of Benghazi ... pale in significance.,FAKE,REAL,False Positive
+Says U.S. Rep. Steve Southerland voted to keep the shutdown going.,REAL,FAKE,False Negative
+"In Rick Perrys Texas, we import nurses ... from other countries.",REAL,FAKE,False Negative
+There is a federal criminal law that says its a crime to transport dentures across state lines.,REAL,FAKE,False Negative
+Austin is burdened by the fastest-growing tax increases of any major city in the nation.,FAKE,REAL,False Positive
+I belong to the AFL-CIO.,REAL,FAKE,False Negative
+The insurance commissioner cant do squat about health care.,REAL,FAKE,False Negative
+Says David Jolly supports privatizing Social Security.,FAKE,REAL,False Positive
+"Since 1968, more Americans have died from gunfire than died in all the wars of this countrys history.",REAL,FAKE,False Negative
+The Florida Department of Agricultures website FreshFromFlorida.com can be used to get a permit to carry a loaded hidden gun without ever leaving your house.,FAKE,REAL,False Positive
+"NATO is opening up a major terror division. ... Im sure Im not going to get credit for it, but that was largely because of what I was saying and my criticism of NATO.",FAKE,REAL,False Positive
+"Since Gina Raimondo took office, investment fees on the states pension portfolio have gone up from about $12 million annually to about $50 million.",REAL,FAKE,False Negative
+"Under President Obamas health-care reforms, the premium for an average plan for a family didnt go down by $2,500 per year, its gone up about $2,500 per year.",REAL,FAKE,False Negative
+"The IRS also investigated liberal groups, groups that had progressive in their name. ... The IRS was basically looking at everybody.",REAL,FAKE,False Negative
+President Obama decided not to meet with Prime Minister Benjamin Netanyahu in New York.,REAL,FAKE,False Negative
+"Rudy Giuliani is ""probably the most underqualified man since George Bush to seek the presidency.""",FAKE,REAL,False Positive
+"About half of the presidents have been governors; half of them, senators.",FAKE,REAL,False Positive
+You had more women getting computer sciences degrees in the 80s by a factor of 2-plus than you do now.,REAL,FAKE,False Negative
+Barack Hussein Obama will ... force courts to accept Islamic Sharia law in domestic disputes.,FAKE,REAL,False Positive
+Some neighborhood schools are closing.,REAL,FAKE,False Negative
+He told gay organizers in Massachusetts he would be a stronger advocate for special rights than even Ted Kennedy.,REAL,FAKE,False Negative
+"We are already almost halfway to our 2010 goal of creating 700,000 new jobs in seven years.",FAKE,REAL,False Positive
+Says the U.S. Supreme Court found that Social Security is not guaranteed.,REAL,FAKE,False Negative
+SaysMichael Bennet wants to close Guantanamo Bay prisonand bring terrorists right here to Colorado.,FAKE,REAL,False Positive
+Oregonians have an amazing no-cost way to fight abortion with free political donations,REAL,FAKE,False Negative
+"Research shows that a vast majority of arriving immigrants today come here because they believe that government is the source of prosperity, and thats what they support.",FAKE,REAL,False Positive
+Mr. Caprio is a career politician who has never worked in the private sector.,FAKE,REAL,False Positive
+"In Rhode Island, 9 percent of workers use the states temporary disability insurance program each year while in New Jersey, the rate is only 3 percent.",FAKE,REAL,False Positive
+"In just 17 years, spending for Social Security, federal health care and interest on the debt will exceed ALL tax revenue!",REAL,FAKE,False Negative
+President Obama took more money from Wall Street in the 2008 campaign than anybody ever had.,REAL,FAKE,False Negative
+Says the Arizona immigration law expressly bans racial profiling.,REAL,FAKE,False Negative
+We (Democrats) have made steady progress creating jobs and improving our schools.,REAL,FAKE,False Negative
+Im the only one whos fought against developers draining the Everglades!,FAKE,REAL,False Positive
+Says Ron Johnson calls Social Security a Ponzi scheme and wants to privatize the program.,REAL,FAKE,False Negative
+We have more illegal immigrants here than we did five years ago.,FAKE,REAL,False Positive
+"The presidents health care proposals will cause most Americans to have their premiums increased, not decreased, and hundreds of millions of people lose their current insurance coverage.",FAKE,REAL,False Positive
+There are already more American jobs in the solar industry than in coal mining.,REAL,FAKE,False Negative
+"Says New Jersey is down nearly 200,000 jobs from its pre-recession peak and with Gov. Chris Christie New Jersey has trailed the rest of America when it comes to unemployment for 12 consecutive months.",REAL,FAKE,False Negative
+We have been in Afghanistan longer now than we have been in any foreign land conducting a war in our nations history.,REAL,FAKE,False Negative
+Webster sponsored a bill to create a form of marriage that would trap women in abusive relationships.,REAL,FAKE,False Negative
+There are a lot of casinos across the country that have gone bankrupt.,REAL,FAKE,False Negative
+Small businesses create 70 percent of the jobs in America.,REAL,FAKE,False Negative
+There are more oil rigs in operation in the United States than the rest of the world combined.,FAKE,REAL,False Positive
+"Payday lenders profit from the poor by charging 1,000-plus percent interest.",REAL,FAKE,False Negative
+"The Social Security trust fund is sound. Without anything being done, it would function well into 2038; and even after that time with no changes, we could pay 80 percent of the benefits that people have earned.",REAL,FAKE,False Negative
+The Obama administration shut down the Amber Alert program because of the government shutdown.,FAKE,REAL,False Positive
+The Republicans have 2 percent of the Muslim vote.,REAL,FAKE,False Negative
+"Every single one of the 41 Republican senators who just blocked a raise in the minimum wage will receive a $2,800 cost-of-living adjustment on January 1, 2015.",REAL,FAKE,False Negative
+Marco Rubio voted against authorizing President Obama to strike Syria after Assad used chemical weapons on his own people.,REAL,FAKE,False Negative
+"Under the Cash for Clunkers program, all we've got to do is ... go to a local junkyard, all you've got to do is tow it to your house. And you're going to get $4,500.",FAKE,REAL,False Positive
+"While our people work longer hours for lower wages, almost all new income goes to the top 1 percent.",REAL,FAKE,False Negative
+"In the last five years, 28,000 people have been killed along the U.S.-Mexico border.",FAKE,REAL,False Positive
+The state of Ohio has one of the lowest unemployment rates in the nation right now and is leading the pack in terms of job creation.,FAKE,REAL,False Positive
+Says HB2 hasnt moved the needle one iota on North Carolinas economy.,FAKE,REAL,False Positive
+Close to 30% of our federal prison population consists of illegal immigrants.,FAKE,REAL,False Positive
+"Says Rep. Jim Weidner proposed a bill taking away health care for 80,000 of Oregons children.",REAL,FAKE,False Negative
+Says that in the 1985 election former Gov. Tom Kean had the largest winning margin for a gubernatorial candidate in Jersey history.,REAL,FAKE,False Negative
+You ... said that Barack Obama was not ready to be commander in chief.,REAL,FAKE,False Negative
+Im the only member of the House of Representatives who raised most of his campaign funds in the last election from small contributions of less than $200.,REAL,FAKE,False Negative
+Josh Mandel is lying about his own record. The rating of Ohios investment fund has NOT improved.,FAKE,REAL,False Positive
+"Rick Scott took $200,000 from a family that leased land for drilling and now he is trying to hide from it.",REAL,FAKE,False Negative
+"At the beginning of the last decade ... America had a budget surplus of over $200 billion. By the time I took office, we had a one-year deficit of over $1 trillion and projected deficits of $8 trillion over the next decade.",REAL,FAKE,False Negative
+U.S. taxpayers are being forced to fund Feisal Abdul Raufs trip to the Middle East.,REAL,FAKE,False Negative
+"Milwaukee County taxpayers paid $370,000 to settle a lawsuit over a decision by Sheriff David A. Clarke Jr. to use untrained corrections officers rather than deputies to patrol the lakefront.",FAKE,REAL,False Positive
+There are Justice Department policies against FBI Director James Comey discussing details of a federal investigation so close to an election.,REAL,FAKE,False Negative
+"Democratic presidents ""have been considerably more effective at creating private-sector jobs.""",REAL,FAKE,False Negative
+"Military ""recruiting went on at Harvard every single day throughout the time (Kagan) was there.""",REAL,FAKE,False Negative
+"Says that under Rick Perrys plan, Texas has cut funding for public schools by 25%.",REAL,FAKE,False Negative
+"Says David Perdue wants to abolish the U.S. Department of Education, which would cost Georgia schools $1 billion a year and eliminate millions in student loans.",REAL,FAKE,False Negative
+The Paul Ryan budget proposal would privatize Medicare.,REAL,FAKE,False Negative
+Says Marco Rubio is the one for an open border.,FAKE,REAL,False Positive
+"Says allowing the payroll tax holiday to expire would end up costing another estimated 900,000 jobs in 2012.",REAL,FAKE,False Negative
+Hillary Clinton supported NAFTA and permanent China trade. Pennsylvania lost thousands of jobs.,REAL,FAKE,False Negative
+"Obama's budget plan would take national debt up to about 80 percent of gross national product. ... Historically, it's been about 40 percent.",REAL,FAKE,False Negative
+We now have driven (health care) costs down to the lowest theyve been in 50 years.,FAKE,REAL,False Positive
+"President Barack Obama's ""initial response when we heard about the Christmas underwear bomber"" was to say that ""this was the act of an isolated extremist.""",REAL,FAKE,False Negative
+Sixty-five percent of the Iraqi people now say it's okay to shoot an American soldier.,FAKE,REAL,False Positive
+Twelve judges have thrown out legal challenges to the health care law because they rejected the notion that the health care law was unconstitutional.,FAKE,REAL,False Positive
+Says Gov. Chris Christies proposal to reduce state income taxes would be the second tax cut for the rich by the governor in two years.,REAL,FAKE,False Negative
+"About 230,000 people that were on unemployment when I took office are not on unemployment now.",REAL,FAKE,False Negative
+Local law enforcement . . . will have access to the [Obamacare] Data Hubs treasure trove of personal info.,FAKE,REAL,False Positive
+Barack Obamas Columbia University ID says he was a foreign student and went by Barry Soetoro.,FAKE,REAL,False Positive
+"John McCain, ""one of the richest people in a Senate filled with millionaires,"" says the solution to the housing crisis is for people to get a ""second job"" and ""skip their vacations.""",FAKE,REAL,False Positive
+"Hypocrisy at the Clinton Foundation: Top male staff made on average $218,029 while top female staff made $153,014 from 2010-2014.",REAL,FAKE,False Negative
+On legalizing illegal immigrants.,REAL,FAKE,False Negative
+"Says there are homes for sale on and around (Oswego Lake) right now for under $150,000 that anyone is welcome to buy.",REAL,FAKE,False Negative
+The top 1 percent pay over half of the entire revenue for this country.,FAKE,REAL,False Positive
+The difference over the (previous) four years between where things were headed and where we brought them to over the last four years is a total of $816 in saved property tax money.,FAKE,REAL,False Positive
+Chris Christie has not increased the taxes on anyone.,REAL,FAKE,False Negative
+Says he never said he would keep education funding the same.,FAKE,REAL,False Positive
+"Most of, if not all of, the [DeKalb school construction] projects always came in on or were under budget.",REAL,FAKE,False Negative
+Says Sen. Sherrod Brown voted to block American energy production and increase energy taxes.,FAKE,REAL,False Positive
+Says Jeanne Shaheen voted for a measure that would have amounted to a new national energy tax.,FAKE,REAL,False Positive
+Seven presidents before (Barack Obama) -- Republicans and Democrats -- tried to expand health care to all Americans.,REAL,FAKE,False Negative
+"If you put the $47 billion in revenue (raised over 10 years by the Buffett rule) into infrastructure you could create 611,000 infrastructure jobs.",FAKE,REAL,False Positive
+What is the proper collective noun for a group of baboons? Believe it or not . . . a Congress!,FAKE,REAL,False Positive
+"Thompson ""voted against $250,000 caps on damages (and) almost anything that would make our legal system fairer.""",FAKE,REAL,False Positive
+The number of uninsured people in Massachusetts is about the same as it was when the mandates were passed in 2006.,FAKE,REAL,False Positive
+We spend less on defense today as % of GDP than at any time since Pearl Harbor.,FAKE,REAL,False Positive
+If you got rid of the income tax today you'd have about as much revenue as we had 10 years ago.,REAL,FAKE,False Negative
+"Says Scott Walker wants to ban common forms of birth control, including the pill.",REAL,FAKE,False Negative
+"Shelby County donated Im sorry, gave 44 schools to the city of Memphis.",REAL,FAKE,False Negative
+"Top U.S. intelligence officials have toldevery member of Congress, including the president, were about to be attacked in a serious way because (of) the threat emanating from Syria and Iraq.",REAL,FAKE,False Negative
+The American people support defunding Obamacare and oppose shutting down the government.,FAKE,REAL,False Positive
+Report that #GOP insisting on changes to Social Security as part of #fiscalcliff false. BTW those changes are supported by @barackobama.,REAL,FAKE,False Negative
+"Nobody has played clips over and over ...of President Obama (saying), If they bring a knife to the fight, well bring a gun.",REAL,FAKE,False Negative
+"Rep. Paul Ryans Medicare plan lines the pockets of the private insurance companies, increases costs for seniors and does not reduce the deficit.",REAL,FAKE,False Negative
+This year in Congress (Connie Mack IV) has missed almost half of his votes.,FAKE,REAL,False Positive
+"1/3 of our kids drop out (of high school), cannot go to college or start a career.",FAKE,REAL,False Positive
+Not even old Gen. Eisenhower saluted military personnel as president.,FAKE,REAL,False Positive
+"You cant get on an airplane, but more than 2,000 people on that list have been able to buy a gun.",FAKE,REAL,False Positive
+74 percent of Republicans support the Affordable Care Act.,FAKE,REAL,False Positive
+Says Alex Sink failed Florida homeowners by using predatory lending practices.,FAKE,REAL,False Positive
+You cant check out a library book without a photo ID.,FAKE,REAL,False Positive
+Atmospheric conditions could push a footballs pressure down approximately one-and-a-half pounds per square inch.,REAL,FAKE,False Negative
+"Taxpayers are on the hook ... for less than a third of the proposed new Atlanta Falcons stadium, and those funds are repaid from money that comes from outsiders.",REAL,FAKE,False Negative
+A college loan is the only loan in the United States that you cannot refinance when interest rates go down.,REAL,FAKE,False Negative
+The House of Representatives has never passed a resolution of disapproval to condemn a member's behavior.,REAL,FAKE,False Negative
+"The policy mistakes that ... the Clintons made got us, in large degree, to the situation that we are in today with mass incarceration.",REAL,FAKE,False Negative
+Says he raised average family income by 50 percent during his tenure as Arkansas governor.,FAKE,REAL,False Positive
+They tried to give us $400 million to build a high-speed train that goes 39 miles an hour.,REAL,FAKE,False Negative
+"Most young Americans right now, theyre not covered by health insurance.",FAKE,REAL,False Positive
+Says two-thirds of groups targeted for IRS scrutiny were not conservative.,FAKE,REAL,False Positive
+"In the class of 1968 at Patrice Lumumba University in Moscow, Mahmoud Abbas was one of the members of that class, and so was Ali Khamenei. And thats where they first established relationships with the young Vladimir Putin.",FAKE,REAL,False Positive
+"Last week the Texas State Board of Education (SBOE), led by Rick Perrys appointee, voted to remove Thomas Jefferson from social studies textbook standards. Thats right. Thomas Jefferson... was deleted from a list of historical figures who inspired political change.",REAL,FAKE,False Negative
+"As a U.S. senator with salary and perks, ‪#Bernie‬ is in the top 1 percent, but still paid only 13 percent in taxes last year.",FAKE,REAL,False Positive
+"You know we can't just pull out now... The truth of the matter is: If we started today, it would take one year, one year to get 160,000 troops physically out of Iraq, logistically.",REAL,FAKE,False Negative
+Says Texas routinely gets a lot more federal spending than it pays in taxes.,REAL,FAKE,False Negative
+Says it has offered $12 million in savings through 2011 and $184 million in savings over the next 25 years in contract negotiations with the City of Milwaukee.,FAKE,REAL,False Positive
+The Obama administration is unwinding our nations welfare-to-work requirements.,FAKE,REAL,False Positive
+"Electric car sales in Georgia have dropped dramatically since a $5,000 tax credit was eliminated and a $200 annual registration fee was imposed July 1.",REAL,FAKE,False Negative
+The Redskins Training Camp deal generated $40 million in new private investment in the city.,REAL,FAKE,False Negative
+The GOP budget plan would cut nearly a million jobs.,REAL,FAKE,False Negative
+"Shes voted for 60 tax increases, hurting the middle class and small businesses.",FAKE,REAL,False Positive
+"Now, in the House of Representatives, we have 40 different jobs bills that have passed and almost all of them have been bipartisan.",FAKE,REAL,False Positive
+"Sheila Jackson Lee of Texas said: Hey, all you wrinkly, white-aged has-beens: Its time for you to die and let the next generation have your spot on the planet.",FAKE,REAL,False Positive
+"Republican (small business tax cut) bill spends $80 million for better Google searches, not job creation",FAKE,REAL,False Positive
+A 2013 state law would allow the operator of an iron ore mine in northern Wisconsin to fill in pristine streams and ponds with mine waste.,REAL,FAKE,False Negative
+"It has been estimated that nearly 40 percent of all guns sold in America are sold by private, unlicensed sellers either online or through gun shows.",FAKE,REAL,False Positive
+2008 was the deadliest year of the war (in Afghanistan) for American forces.,REAL,FAKE,False Negative
+Says Amanda Fritz manages less than 5 percent of city operations.,REAL,FAKE,False Negative
+The streetcar project planned by Mayor Tom Barrett would be a 1900s style trolley.,REAL,FAKE,False Negative
+"Lawmakers were paid for their off-season efforts to, for the first time, take the lead in drawing borders for two would-be cities.",REAL,FAKE,False Negative
+Greg Abbott and his surrogates have referred to women who have been the victims of rape or incest as though somehow what they are confronting is a minor issue.,FAKE,REAL,False Positive
+"Under a proposed medical marijuana amendment in Florida, you dont get refills -- you get it forever.",FAKE,REAL,False Positive
+"A data-storing microchip ""would be implanted in the majority of people who opt to become covered by the public health care option.""",FAKE,REAL,False Positive
+"Enacting the Right-to-Carry Act would amount to expanding the rights of sex offenders, terrorists, child predators, and abusers to carry concealed weapons across state lines.",REAL,FAKE,False Negative
+"As governor of Arkansas, I cut taxes and fees almost 100 times, saving the taxpayers almost $380-million. I left a surplus of nearly $850-million.",REAL,FAKE,False Negative
+I havent raised taxes in the time Ive been the governor of New Jersey.,REAL,FAKE,False Negative
+Massachusetts public schools teach kids as young as kindergartners about gay marriage.,FAKE,REAL,False Positive
+I'm probably one of the four or five best-known Americans in the world.,FAKE,REAL,False Positive
+Only in Washington would politicians spend $27 million to teach Moroccans how to make pottery.,FAKE,REAL,False Positive
+SaysRand Paulhas put out budgets to cut the military in half.,FAKE,REAL,False Positive
+Groups that receive foreign money are spending huge sums to influence American elections.,REAL,FAKE,False Negative
+"[A]t his current rate, President Obama will have added more debt to the United State of America by the end of his first term than each of the previous 43 presidents -- combined!",REAL,FAKE,False Negative
+We know that Saudi Arabia started al-Qaida.,REAL,FAKE,False Negative
+"The fundraising numbers are in, and our grassroots support is unmatched!",FAKE,REAL,False Positive
+"Says although the unemployment rate seems to be improving, it does not reflect real job creation -- its caused by a shrinking of the actual labor force.",REAL,FAKE,False Negative
+"Obama voted ""to cut off funding for our American troops on the battlefield.""",FAKE,REAL,False Positive
+"In general, it appears Wisconsins right to work bill would likely apply to the Green Bay Packers players and their union.",REAL,FAKE,False Negative
+"Says he passed eight measures, including ones to prevent groping at airport security checks and to bar sanctuary cities in Texas.",REAL,FAKE,False Negative
+Its gotten to a point where the average federal worker makes twice as much as the average private sector worker.,FAKE,REAL,False Positive
+These 15 political appointees (on the IPAB) will make all the major health care decisions for over 300 million Americans.,FAKE,REAL,False Positive
+Jason Carter supports using Georgia tax dollars to promote Obamacare,FAKE,REAL,False Positive
+"Dan Patrick said that if women get paid less than a man for the same job, that thats not a problem.",REAL,FAKE,False Negative
+"There have even been Republican congressmen who have said, If you give us more money we dont know where we would even put additional Border Patrol agents.",FAKE,REAL,False Positive
+"Today, for the first time in fifteen years, Master Locks unionized plant in Milwaukee is running at full capacity.",REAL,FAKE,False Negative
+The unemployment rate may be as high as 42 percent.,FAKE,REAL,False Positive
+"Common Core is not from the federal government, they do not have their fingerprints on this thing at all.",REAL,FAKE,False Negative
+"Says Scott Walker brags a lot about having an independent agency investigate police shootings. Of course, he didnt fund it.",FAKE,REAL,False Positive
+What the Arizona law does is make a state crime out of something that already is... a federal crime.,REAL,FAKE,False Negative
+"In Miami-Dade County, we spend at our school system over $20 million every year educating recent immigrants.",REAL,FAKE,False Negative
+"Senator McCain has been talking tough about earmarks, and that's good, but earmarks account for about $18-billion of our budget.",REAL,FAKE,False Negative
+Says Kay Bailey Hutchison voted for sanctuary cities.,FAKE,REAL,False Positive
+John wasn't this raging populist four years ago when he ran for president.,FAKE,REAL,False Positive
+Says no one from the Bush family attended the 2012 Republican National Convention and there was no President Bush at the 2008 convention.,FAKE,REAL,False Positive
+Weve got a personal tax system thats so complicated it costs Americans about $500 billion a year to comply with the current tax code.,FAKE,REAL,False Positive
+The bulk of the people who are shot with a weapon other than these drug gangs taking on one another end up being shot with their own weapon.,REAL,FAKE,False Negative
+"In the case of General Motors, the (Bush) administration wrote a check without asking for any conditions of change.",FAKE,REAL,False Positive
+Oregon is the only state out of the 50 states in the USA that continues to pay 100% of the medical benefits for its employees and their families.,FAKE,REAL,False Positive
+"Three years ago, a newly elected President Obama told America that if Congress approved his plan to borrow nearly a trillion dollars, he would hold unemployment below 8 percent.",FAKE,REAL,False Positive
+The Mitchell Park Domes lose about $1 million-plus every year and the number of people going to the Domes has been going down.,FAKE,REAL,False Positive
+"In the entire public school system in Camden last year, only three students graduated college ready.",REAL,FAKE,False Negative
+"Under the Hate Crimes bill, ""any pastor, preacher, priest, rabbi or imam who gives a sermon out of their moral traditions about sexual practices could be found guilty of a federal crime.""",FAKE,REAL,False Positive
+U.S. global AIDS spending helped reduce political instability and violence by 40 percent in recipient nations.,FAKE,REAL,False Positive
+"I told the Congress 'thanks, but no thanks,' on that Bridge to Nowhere.",REAL,FAKE,False Negative
+"State school funding per pupil is down 16 percent compared to 2009, after adjusting for inflation.",REAL,FAKE,False Negative
+Unemployment has fallen from 10 percent during the presidents first year in office to 8.5 percent today.,REAL,FAKE,False Negative
+Says State Rep. Kristi Thibaut was an ACORN lobbyist.,REAL,FAKE,False Negative
+Any legislative action that is taken now could very well be rendered completely null and void by the decision of the Supreme Court expected this June.,FAKE,REAL,False Positive
+"After how hard you work and how much you pay in taxes, New York City ends up getting the money. Im Chris Jacobs. I think its time we have someone in Albany thats making sure our region gets our fair share",FAKE,REAL,False Positive
+There were 36 states where Republicans who were in charge refused to implement a state (health insurance) exchange.,FAKE,REAL,False Positive
+"Says a tweet he sent out wasnt saying, check out a sex tape. It was just take a look at the background of Alicia Machado.",FAKE,REAL,False Positive
+Aphotograph of 21-year-old Hillary Clinton featured a Confederate battle flag in the background.,FAKE,REAL,False Positive
+Texas leads the nation in the percentage of residents without health insurance.,REAL,FAKE,False Negative
+This administration and this Congress have been systematically cutting funding to border security since the Democrats took control.,FAKE,REAL,False Positive
+A new college tuition reciprocity agreement with Minnesota makes college education more affordable for Wisconsin residents.,FAKE,REAL,False Positive
+Mitt Romney is the first major party candidate for president of the United States in modern times not to release at least 12 years of tax returns.,FAKE,REAL,False Positive
+"In the month of July alone, EU exports to South Korea increased by over 36 percent. A lot of that is our market share. Those are our farmers and our service providers who are suffering.",REAL,FAKE,False Negative
+The DNC says McCain flip-flopped on whether the Iraq War would be easy.,REAL,FAKE,False Negative
+Says Ohio law gives tax breaks to rich people who own private jets.,REAL,FAKE,False Negative
+Says New Hampshire has the third-highest property tax in the country.,REAL,FAKE,False Negative
+"Obama's tax plan cuts taxes ""for 95 percent of all working families.""",REAL,FAKE,False Negative
+"People were hopeless. Sixty percent of the population, 70 percent of the population wanted to live somewhere else. . . . By the time I left, 70 percent wanted to stay.",FAKE,REAL,False Positive
+On whether the United States should intervene in Libya.,FAKE,REAL,False Positive
+"John Kitzhaber created 128,000 new jobs while governor.",REAL,FAKE,False Negative
+"Despite keeping distance from national media interviewers, I did local press all along, the last three months.",FAKE,REAL,False Positive
+"There was a Gallup poll in Egypt last year, and 70 percent of Egyptians dont want our money.",REAL,FAKE,False Negative
+Americans spend 6.1 billion hours a year on tax preparation.,REAL,FAKE,False Negative
+On letting Occupy Atlanta protesters stay in Woodruff Park.,REAL,FAKE,False Negative
+"In first week as governor, Tim Kaine proposed a nearly $4 billion tax increase, $4 billion, including a tax increase on people earning as little as $17,000 a year.",REAL,FAKE,False Negative
+Every president has raised the debt ceiling.,REAL,FAKE,False Negative
+"Says on contraception, his plan is cheaper and easier for you than Sen. Mark Udalls",FAKE,REAL,False Positive
+The states have always defined marriage.,REAL,FAKE,False Negative
+State government spending will be increase 10.7 percent this year.,FAKE,REAL,False Positive
+The FCCs net neutrality policy includes whatis essentially a massive tax increase.,REAL,FAKE,False Negative
+The typical white male worker in this country is making in real terms what he was making in 1973 and the average worker is making what they were making in 1996.,REAL,FAKE,False Negative
+The minimum wage is mostly an entry-level wage for young people.,REAL,FAKE,False Negative
+Says six studies verify that the math adds up for Mitt Romneys tax plan.,FAKE,REAL,False Positive
+"In the last few months alone, we have apprehended extremists within our borders who were sent here from the border region of Afghanistan and Pakistan to commit new acts of terror.",REAL,FAKE,False Negative
+"A three-cents-per-ounce soda tax in Philadelphia would result in the loss of 2,000 family-sustaining Teamster Union jobs and countless other jobs in the beverage industry.",FAKE,REAL,False Positive
+Kendrick Meek was #1 in Florida in taking tobacco cash and then opposed a tax on cigars that would have helped pay for childrens health care.,FAKE,REAL,False Positive
+"For the first time ever, we completely funded the critical needs waiting list so persons with unique abilities can get the help they need.",REAL,FAKE,False Negative
+President Obama in November of last year wiped away (a program) that allows for shared fingerprinting for those who are behind bars so you know who is here legally and illegally.,REAL,FAKE,False Negative
+"McCain sought the political support of minister John Hagee, ""who believes Hurricane Katrina was God's punishment for gay rights and called the Catholic Church 'the Antichrist' and a 'false cult.'""",REAL,FAKE,False Negative
+Says 51 percent of federal tax filers paid zero federal income tax.,REAL,FAKE,False Negative
+"Because of the 2011 debt ceiling fight, the stock market lost 2,000 points.",REAL,FAKE,False Negative
+"Since Wisconsin Gov. Scott Walker took office, we are losing jobs at rates not seen in decades.",FAKE,REAL,False Positive
+I would be the first Republican senator elected in New Jersey in 41 years.,REAL,FAKE,False Negative
+Wisconsins attorney general and state treasurer ordered the daughter of Earth Day founder Gaylord Nelson not to discuss climate change on state time.,REAL,FAKE,False Negative
+"Says unions take away hard-earned money of teachers, firefighters and police officers to play politics.",FAKE,REAL,False Positive
+President Bush never did one interview with the New York Times during his entire presidency.,FAKE,REAL,False Positive
+"14,000 Americans . . . lose their health insurance every single day.",REAL,FAKE,False Negative
+"Mr. Trump is self-financing his campaign, so we dont have any donors.",FAKE,REAL,False Positive
+"Embryonic stem cell research is at a dead end, with no one good example of a successful treatment.",FAKE,REAL,False Positive
+The Affordable Care Act is bringing the cost of health care in our country down.,REAL,FAKE,False Negative
+"Rick Perry had planned to retire from the legislature until his best friend, David Weeks, and I talked him into switching parties and running for the GOP nomination for agriculture commissioner.",REAL,FAKE,False Negative
+"Out of 150,000 tenured teachers in the last 10 years, only 17 have been dismissed for incompetence.",REAL,FAKE,False Negative
+Annual precipitation has increased in Rhode Island by over 12 inches in the last century.,REAL,FAKE,False Negative
+Ohio is not meeting its obligation to update voter registrations when voters change their address with the BMV.,REAL,FAKE,False Negative
+"What we have now is the most generous, in my opinion, good time bill in the entire United States.",FAKE,REAL,False Positive
+There is no Plan B if the transportation referendum is not passed by voters.,FAKE,REAL,False Positive
+"Barack Obama wrote a thesis at Columbia University in which he criticized ""plutocratic thugs"" and said the Constitution gave Americans ""the shackles of hypocrisy.""",FAKE,REAL,False Positive
+"Youll find blacks in almost every regiment throughout the South who fought right alongside white Southerners, during the Civil War.",FAKE,REAL,False Positive
+"Carly Fiorina, shes against banning assault weapons.",REAL,FAKE,False Negative
+"Hillary's baby bond proposal would give $5,000 to each of the 4-million babies born in the U.S. each year, totaling $20-billion per year, multiplied by four years = $80-billion.",FAKE,REAL,False Positive
+Bill McCollum holds the same position on (embryonic stem cell research) as Barack Obama.,REAL,FAKE,False Negative
+Newt Gingrichs presidential campaign has exactly the same challenges as Ronald Reagans successful 1980 bid.,FAKE,REAL,False Positive
+Says Lee Leffingwell raised property taxes 20 percent in three years.,REAL,FAKE,False Negative
+"8 years of the Clintons, major losses for Democrats across the nation.",REAL,FAKE,False Negative
+Says a highway was closed in El Paso because of bullets flying across the border.,REAL,FAKE,False Negative
+Jim Renacci voted repeatedly to end Medicare.,FAKE,REAL,False Positive
+"Sen. Joe Liebermans home state has a public option which covers about 10,000 of its citizens that was introduced by its Republican governor.",REAL,FAKE,False Negative
+Health insurance companies pay CEOs $24 million a year,FAKE,REAL,False Positive
+Says Donald Trump wants to deport our Dreamers.,REAL,FAKE,False Negative
+The majority of Americans are conservatives.,REAL,FAKE,False Negative
+Obama has racked up more debt than any president in history over $5 trillion.,REAL,FAKE,False Negative
+Says Arizona congressional candidate Ray Strauss is a Champion of Big Government for his votes to raise taxes while on the local city council.,REAL,FAKE,False Negative
+The No. 1 issue that the American people care about is getting America back to work.,REAL,FAKE,False Negative
+Says in 1944 we were in debt more than twice as much as we are now.,FAKE,REAL,False Positive
+Says Ronda Storms voted to fund the Taj Mahal courthouse.,REAL,FAKE,False Negative
+"One-half of undocumented workers pay federal income taxes, which means they are paying more federal income taxes than Donald Trump pays.",REAL,FAKE,False Negative
+"Says Ohios I-X Center used to be a great plant, but thousands of people of worked here, and they left when their jobs were moved overseas.",FAKE,REAL,False Positive
+"Weve got a 1,000 National Guard troop request thats been in front of this president for over a year and no response.",REAL,FAKE,False Negative
+"Under a new law, doctors performing drug-induced abortions could be charged if women dont return to them for follow-up care",FAKE,REAL,False Positive
+Says veterans disability claims backlog doubled in Obamas first term.,REAL,FAKE,False Negative
+"Its hard to get people in Portland to vote yes on ballot measures, especially when theres opposition.",FAKE,REAL,False Positive
+Says 11 straight years of no major hurricanes striking land in the United States bores a hole right through the whole climate change argument.,FAKE,REAL,False Positive
+Members of Congress receive full pay retirement after serving one term.,FAKE,REAL,False Positive
+"Says he worked with the Democratic legislature to balance spending with revenues so that at the end of my four-year term, the rainy day fund was established at more than $2 billion.",REAL,FAKE,False Negative
+Says the No. 2 cause of death in the U.S. (for) women under 50 is being killed by their spouse or domestic partner.,FAKE,REAL,False Positive
+"Just about everyone everywhere is spending more hours on the job, less time with their families, bringing home smaller and smaller paychecks, while theyre paying more and more at the gas pump and the grocery stores.",REAL,FAKE,False Negative
+David Perdue said hed raise taxes.,REAL,FAKE,False Negative
+Says Every legislative district in the state has at least one craft brewery and countless home brewers.,FAKE,REAL,False Positive
+"In Ohio, we invested in our children, raising school funding by 5.5 percent in the last budget.",FAKE,REAL,False Positive
+"Says in the last six months of the Bush administration, the U.S. lost 3.5 million jobs, including 760,000 jobs during January 2009 alone.",REAL,FAKE,False Negative
+"Says Demond Means, turnaround district superintendent for Milwaukee Public Schools, said the district needs to be gutted.",FAKE,REAL,False Positive
+The American people will be appalled to learn the health care bill exempts (congressional) leadership and committee staff.,REAL,FAKE,False Negative
+"Deregulation of the states telecommunications industry will create 50,000 jobs in Wisconsin.",FAKE,REAL,False Positive
+"We admit about 100,000 permanent immigrants from the Middle East every year.",REAL,FAKE,False Negative
+Says paid family leave is a program that is standard in all but five nations around the world.,REAL,FAKE,False Negative
+"Says in the last 20 years, the French have not stood by the United States on foreign policy.",FAKE,REAL,False Positive
+"Says thousands at a Manhattan rally for Donald Trump were chanting We hate Muslims, we hate blacks, we want our great country back.",FAKE,REAL,False Positive
+"Barack Obama ""passed laws moving people from welfare to work.""",REAL,FAKE,False Negative
+Says President Barack Obama promised a pathway to citizenship to undocumented immigrants and didnt deliver jack squat on any of it.,REAL,FAKE,False Negative
+The proposed Gogebic mine in northern Wisconsin could be extended as long as 21 miles.,REAL,FAKE,False Negative
+"The Richardson-Denish administration gave 50,000 drivers licenses to illegal immigrants in New Mexico.",FAKE,REAL,False Positive
+"Says the United States actually exports more gasoline, diesel and other fuels than it imported in 2011 for the first time since, I think, 1949.",REAL,FAKE,False Negative
+Rhode Island is the only state where officers at state-supported [colleges] carry out their duties unarmed.,REAL,FAKE,False Negative
+The law is very clear! 'The monies recouped from the TARP shall be paid into the general fund of the treasury for the reduction of the public debt.',REAL,FAKE,False Negative
+"Our veterans, in many cases, are being treated worse than illegal immigrants.",FAKE,REAL,False Positive
+Says Paul Ryan tried to change the whole game for Social Security,REAL,FAKE,False Negative
+"In 2010, the non-partisan Government Accountability Office found that only 6.5 percent of the U.S.-Mexico border was under full control of the Border Patrol.",REAL,FAKE,False Negative
+Says 18 states and the District of Columbia have voted Democratic in six consecutive presidential elections.,REAL,FAKE,False Negative
+Hidden in the healthcare.gov code is language that means users waive any reasonable right to privacy of your personal information.,FAKE,REAL,False Positive
+Most military experts say there is anywhere between 25 and 30 members of al Qaeda in Afghanistan.,FAKE,REAL,False Positive
+"In Cranston, it costs $5,000 to $6,000 to send out community notifications on just one Level 3 sex offender.",FAKE,REAL,False Positive
+"While the countrys economy was battered, nine states with no income tax actually grew jobs from 2001 to 2010.",REAL,FAKE,False Negative
+"They say teachers only make on averagein New Jersey 60,000 dollars a year.They only work 180 days.",REAL,FAKE,False Negative
+The city of Atlanta has either the highest or second-highest average water bills in the country.,REAL,FAKE,False Negative
+Roy Coopers refusal to do his job is costing taxpayers money.,FAKE,REAL,False Positive
+"In exchange for five minutes with Bill Clinton, the government of Qatar was going to give $1 million to the Clinton Foundation.",REAL,FAKE,False Negative
+We are one of only two states to have eight consecutive months of declining unemployment. Twenty-one states had increased unemployment last month. Ours went down.,REAL,FAKE,False Negative
+"Barack Obama wants to ""unilaterally disarm our nation.""",FAKE,REAL,False Positive
+Milwaukees problems include 52 percent black male unemployment.,FAKE,REAL,False Positive
+Job growth in the United States is now at the fastest pace in this countrys history.,FAKE,REAL,False Positive
+"When asked about equal pay for women, (Rubios) quote was that it was a waste of time.",REAL,FAKE,False Negative
+Says he was known as Veto Corleone for cutting spending as Florida governor.,REAL,FAKE,False Negative
+The State of Rhode Island has the worst state-funded pension in the country.,FAKE,REAL,False Positive
+(John McCain) was even mentioned as a running mate with John Kerry.,REAL,FAKE,False Negative
+I've cast a couple of 99-1 votes and been the lone dissenter.,REAL,FAKE,False Negative
+Says hes never asked for more than inflationary budget increases in his 10 budgets as Milwaukee County sheriff,FAKE,REAL,False Positive
+"Under New York Mayor Bill de Blasio, homicides are up by 20 percent, and subway delays have soared 45 percent.",FAKE,REAL,False Positive
+And delivered more tax relief than the other Republicans combined.,REAL,FAKE,False Negative
+"Says U.S. Rep. Lamar Smith supported the $700 billion Wall Street bailout in 2008, ""but now he is standing in the way of reforms that would assure these bailouts would never happen again.",FAKE,REAL,False Positive
+Ninety-seven percent of the time. Thats how often Mark Warner votes with President Obama.,REAL,FAKE,False Negative
